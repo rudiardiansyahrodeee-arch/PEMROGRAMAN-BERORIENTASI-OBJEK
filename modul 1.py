@@ -1,3 +1,4 @@
+#tugas 1
 class Hero:
     pass
  
